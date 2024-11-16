@@ -1,0 +1,7 @@
+name = "28"
+type = "webpack"
+workers_dev = true
+account_id = "3f7cf9a5647d5240fa81bc8b859f6c5f"
+[site]
+bucket = "./site_dir"
+entry-point = "workers-site"
